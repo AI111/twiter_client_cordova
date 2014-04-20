@@ -1,0 +1,15 @@
+
+//
+// HERE ARE THE CONFIGURATION SETTINGS FOR OAUTH
+// REPLACE  THESE VALUES WITH YOUR KEYS FROM TWITTER
+//
+angular.module('starter').constant('myAppConfig', {
+    oauthSettings: {
+        consumerKey: 'PU47tNh833f96TZ1OlrspA',
+        consumerSecret: '7kx4gVW1UBIEeSOgwGm6jdNNqq27gl5kYCfkWAC6XW4',
+        requestTokenUrl: 'https://api.twitter.com/oauth/request_token',
+        authorizationUrl: "https://api.twitter.com/oauth/authorize",
+        accessTokenUrl: "https://api.twitter.com/oauth/access_token",
+        callbackUrl: "http://www.clearlyinnovative.com/index.html"
+    }
+});
