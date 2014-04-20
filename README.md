@@ -6,7 +6,7 @@ using custom SCSS.
 
 ## Using this project
 
-This project is based on code from jsOauth and [ccoenraets/sociogram-angular-ionic](https://github.com/ccoenraets/sociogram-angular-ionic)
+This project is based on code from [jsOauth](https://github.com/bytespider/jsOAuth) and [ccoenraets/sociogram-angular-ionic](https://github.com/ccoenraets/sociogram-angular-ionic)
 
 HERE ARE THE CONFIGURATION SETTINGS FOR OAUTH, REPLACE  THESE VALUES WITH YOUR KEYS FROM TWITTER
 
