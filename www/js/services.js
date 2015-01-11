@@ -151,7 +151,7 @@ angular.module('twitterLib', [])
                         console.log("TWITTER: Storing token key/secret in localStorage");
                         $window.localStorage.setItem(twitterKey, JSON.stringify(accessData));
 
-                        Twitter.verify(deferredLogin);
+                        Twitter.verify(_deferred);
 
                     };
 
